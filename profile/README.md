@@ -1,9 +1,3 @@
-<!--
-DRAFT for review, 26 Oct 2026. Not published.
-Goes in a new public repo named `.github` at Aye-Solutions/.github, file `profile/README.md`.
-GitHub shows it on the organisation's front page.
--->
-
 # Aye
 
 We build **AyeFace**: consent-based identity, loyalty and payments for commerce, in store and online.
